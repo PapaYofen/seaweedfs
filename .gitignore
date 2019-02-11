@@ -80,3 +80,5 @@ build
 target
 *.class
 other/java/hdfs/dependency-reduced-pom.xml
+
+weed/weed
